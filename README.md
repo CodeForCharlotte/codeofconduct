@@ -38,7 +38,7 @@ Harassment includes but is not limited to: offensive verbal or written comments 
 
 If a participant engages in harassing behavior, the event organizers may take any action they deem appropriate, including warning the offender or expulsion from Code for America events and network activities. 
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the event staff immediately. You can contact them at [EVENT ORGANIZER EMAIL AND PHONE NUMBER]. Event staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the event staff immediately. You can contact them at jvanfleet@codeforamerica.org and (704) 807-0915. Event staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event.
 
 If you cannot reach an event organizer and/or it is an emergency, please call 911 and/or remove yourself from the situation. 
 
@@ -50,7 +50,7 @@ We value your attendance and hope that by communicating these expectations widel
 
 SUBJECT: Safe Space alert at [EVENT NAME]
 
-I am writing because of harassment at a Code for America Communities event, (NAME, PLACE, DATE OF EVENT). 
+I am writing because of harassment at a Code for Charlotte event, (NAME, PLACE, DATE OF EVENT). 
 
 You can reach me at (CONTACT INFO). Thank you.
 
